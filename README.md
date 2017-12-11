@@ -6,7 +6,7 @@ ASP.NET Framework Aurelia Webpack App Template
 
 > Browse [source code](https://github.com/NetFrameworkTemplates/aurelia-spa-netfx), view live demo [aurelia-spa.web-templates.io](http://aurelia-spa.web-templates.io) and install with [dotnet-new](http://docs.servicestack.net/dotnet-new):
 
-    $ npm install -g servicestack-cli
+    $ npm install -g @servicestack/cli
 
     $ dotnet-new aurelia-spa-netfx ProjectName
 
