@@ -54,7 +54,7 @@
     "jest-jasmine2": "^24.8.0",
     "jest-matchers": "^20.0.3",
     "json-loader": "^0.5.7",
-    "karma": "^4.2.0",
+    "karma": "^6.3.14",
     "karma-chrome-launcher": "^3.0.0",
     "karma-coverage": "latest",
     "karma-coverage-istanbul-reporter": "^2.0.5",
